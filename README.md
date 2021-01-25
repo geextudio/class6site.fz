@@ -15,6 +15,8 @@
 * [Gatsby.js](https://www.gatsbyjs.com/) + [CMS](https://www.gatsbyjs.com/features/cms)  
 * Cloud
   * [腾讯云开发(免费版)](https://cloud.tencent.com/document/product/876/47816)
+  * [Contentful CMS](https://www.contentful.com/help/gatsby-app/)
+    * [Gatsby Plugin](https://www.gatsbyjs.com/plugins/gatsby-source-contentful/)
   * [Vercel Gatsby](https://vercel.com/solutions/gatsby#the-easiest-way-to-deploy)
-  * [Gatsby CMS](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-gatsby-cloud/)
+  * [Gatsby Cloud](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/deploying-to-gatsby-cloud/)
 * [Taro](https://taro.jd.com/)
