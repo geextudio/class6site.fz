@@ -1,4 +1,4 @@
-# Class6Site.FZ
+# 方洲 6 班 (2019)
 
 方洲小学 2019 级 6 班 PWA + Serverless CMS Site
 
